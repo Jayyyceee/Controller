@@ -1,5 +1,5 @@
 .controller.ds4 {
-    background: url(ps4-assets/base.svgz);
+    background: url(https://github.com/Jayyyceee/Controller/blob/master/base.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -7,7 +7,7 @@
 }
 
 .ds4.disconnected {
-    background: url(ps4-assets/disconnected.svgz);
+    background: url(https://github.com/Jayyyceee/Controller/blob/master/disconnected.png);
 }
 
 .ds4.disconnected div {
@@ -40,7 +40,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(ps4-assets/bumper.svgz) no-repeat;
+    background: url(https://github.com/Jayyyceee/Controller/blob/master/bumper.png) no-repeat;
     opacity: 0;
 }
 
